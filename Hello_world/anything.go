@@ -14,6 +14,17 @@ func main() {
 			fmt.Println(i)
 		}
 
+		// assign and declear
+		x := 42
+		fmt.Println(x)
+
+		// change the value
+		x = 99
+		fmt.Println(x)
+
+		y := 100 + 27
+		fmt.Println(y)
+
 	}
 }
 
